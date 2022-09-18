@@ -6,9 +6,5 @@
 
 ## Procedure
 ![](src/tutorial-1.png)
-## 
-## 
 ![](src/tutorial-2.png) 
-##
-##
 ![](src/tutorial-3.png)
